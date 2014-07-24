@@ -1,0 +1,7 @@
+quest test begin
+	state start begin
+		when xtooloud.chat begin
+			say("you're using tooloud's quest.")
+		end
+	end
+end
